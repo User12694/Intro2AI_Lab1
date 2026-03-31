@@ -1,3 +1,4 @@
 log/
 get_result.sh
 multi_game.sh
+submissions/*/__pycache__
