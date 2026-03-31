@@ -3,3 +3,4 @@ get_result.sh
 multi_game.sh
 */__pycache__
 submissions/test
+submissions/*/__pycache__
